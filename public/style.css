@@ -90,14 +90,14 @@ ul {
 
 .chat.page {
   display: none;
-  color: Black;
+  background-color: Black;
 }
 
 /* Font */
 
 .messages {
   font-size: 150%;
-  color: Black;
+  color: White;
 }
 
 .inputMessage {
@@ -126,7 +126,7 @@ ul {
 }
 
 .message.typing .messageBody {
-  color: Grey;
+  color: grey;
 }
 
 .username {
