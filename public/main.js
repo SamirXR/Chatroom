@@ -229,7 +229,7 @@ $(function() {
   socket.on('login', function (data) {
     connected = true;
     // Display the welcome message
-    var message = "Welcome to Chatroom";
+    var message = "Welcome to BLSChat";
     log(message, {
       prepend: true
     });
