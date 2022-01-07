@@ -24,7 +24,7 @@ $(function() {
   function addParticipantsMessage(data) {
     var message = "";
     if (data.numUsers === 1) {
-      message += "1 person online";
+      message += "1 User online";
     } else {
       message += data.numUsers + " people online";
     }
@@ -228,7 +228,7 @@ $(function() {
   socket.on("login", function(data) {
     connected = true;
     // Display the welcome message
-    var message = "Welcome to BLSChat";
+    var message = "FEMINIST";
     log(message, {
       prepend: true
     });
