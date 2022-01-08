@@ -8,4 +8,6 @@ A Simple web based chatroom deplyed using [Websockets](https://socket.io/) :)
 
 _Else it'll get deployed with `Port=3000` by Default_
 
-<iframe src="https://discord.com/widget?id=913750761924591666&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+  <a href="https://discord.gg/P9gGZaXWGR">
+    <img src="https://discordapp.com/api/guilds/913750761924591666/widget.png?style=shield" alt="Discord Server">
+  </a>
