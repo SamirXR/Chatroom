@@ -224,7 +224,7 @@ $(function () {
   socket.on("login", function (data) {
     connected = true;
     // Display the welcome message
-    var message = "FEMINIST :)";
+    var message = "CHATROOM :)";
     log(message, {
       prepend: true,
     });
